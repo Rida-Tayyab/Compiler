@@ -2,7 +2,7 @@
 CS-346 COMPILER CONSTRUCTION PROJECT
 ================================================================================
 Course: CS-346 Compiler Construction
-Class: BSCS-2023-AB
+Class: BSCS-13B
 Institution: NUST SEECS
 Instructors: 
   - Lab: Ms. Urooj Akmal
