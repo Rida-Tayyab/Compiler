@@ -1,0 +1,17 @@
+// Sample Input for Lexer Testing
+// CS-346 Compiler Construction Project
+
+int main() {
+    int x = 10;
+    float y = 3.14;
+    
+    if (x > 5) {
+        y = y + 2.5;
+    }
+    
+    while (x < 100) {
+        x = x * 2;
+    }
+    
+    return x + y;
+}
