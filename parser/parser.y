@@ -121,10 +121,9 @@ int main(int argc, char** argv) {
     printf("=======================================================================\n");
     printf("MODULE 2 & 3: SYNTAX ANALYSIS (PARSER)\n");
     printf("=======================================================================\n");
-    
-    #ifdef YYDEBUG
-    yydebug = 1;
-    #endif
+    printf("Enter expressions (Ctrl+C to exit):\n");
+    printf("Examples: 2 + 3 * 4, (5 + 2) ^ 3, 10 - 4\n");
+    printf("-----------------------------------------------------------------------\n");
     
     return yyparse();
 }
